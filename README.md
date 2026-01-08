@@ -6,6 +6,11 @@ Smart Calculator is a modern and responsive web-based calculator developed using
 
 # 🔧 Technologies Used
 
+Successfully visualized ECG signals
+
+Detected apnea patterns from sleep data
+
+Achieved effective classification between normal and apnea events
 HTML
 CSS
 JavaScript
