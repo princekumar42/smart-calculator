@@ -8,15 +8,10 @@ Smart Calculator is a modern and responsive web-based calculator developed using
 
 HTML
 
-Detected apnea patterns from sleep data
-
-Achieved effective classification between normal and apnea events
-HTML
 CSS
+
 JavaScript
-HTML5
-CSS3
-JavaScript
+
 
 
 <h3 align="left">Languages and Tools:</h3>
