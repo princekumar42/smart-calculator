@@ -6,6 +6,9 @@ Smart Calculator is a modern and responsive web-based calculator developed using
 
 # 🔧 Technologies Used
 
+HTML
+CSS
+JavaScript
 HTML5
 CSS3
 JavaScript
